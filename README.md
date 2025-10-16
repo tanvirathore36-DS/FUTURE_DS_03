@@ -13,7 +13,6 @@ FUTURE_DS_03/
 │ └─ processed/ → Cleaned and transformed data ready for analysis
 ├─ notebooks/
 │ ├─ 01_data_cleaning_and_eda.ipynb → Data cleaning & exploration
-│ └─ 02_sentiment_analysis.ipynb → Sentiment analysis and insights
 ├─ dashboard/
 │ ├─ powerbi/ → Power BI dashboard file (.pbix)
 │ └─ screenshots/ → Screenshots of dashboard visuals
